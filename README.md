@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amit Prakash</h1>
-<h3 align="center">A passionate Java Backend Developer</h3>
+<h1 align="left">Hi 👋, I'm Amit Prakash</h1>
+<h3 align="left">A passionate Java Backend Developer</h3>
 <img align="center" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif" style="margin: 20px 0">
 
 
