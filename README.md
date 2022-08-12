@@ -1,7 +1,7 @@
 <img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif">
 <h1 align="center">Hi 👋, I'm Amit Prakash</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/userupload/2494763/file/original-52064d4757a74ff0b524d022da745efd.gif?compress=1&resize=1024x768">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkii99&label=Profile%20views&color=0e75b6&style=flat" alt="akkii99" /> </p>
 
 - 🌱 I’m currently learning **spring , sql**
