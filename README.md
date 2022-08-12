@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Prakash</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akkii99&label=Profile%20views&color=0e75b6&style=flat" alt="akkii99" /> </p>
 
 
 
@@ -13,11 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitprakash28" alt="amitprakash28" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://amitprakash.netlify.app/](https://amitprakash.netlify.app/)
+- 👨‍💻 My Portfolio [https://amitprakash.netlify.app/](https://amitprakash.netlify.app/)
 
 - 💬 Ask me about **JAVA, SPRING FRAMEWORK, SPRING BOOT | REST API, SQL, JAVASCRIPT, CSS3, HTML**
 
-- 📫 How to reach me **https://www.linkedin.com/in/amit-prakash-4147b0174/**
+- 📫 How to reach me **amit69091@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1z_6K9Yzua-spiKXIfA_Rha4DM4u3MZzS/view?usp=sharing](https://drive.google.com/file/d/1z_6K9Yzua-spiKXIfA_Rha4DM4u3MZzS/view?usp=sharing)
 
