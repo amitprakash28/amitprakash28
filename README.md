@@ -1,12 +1,11 @@
-<img src="https://media4.giphy.com/media/H83XigCowswb8Tm0HX/giphy.gif?cid=790b76114bd20f3ead6c36988ca85599c1c04253dd9c576a&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Amit Prakash</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkii99&label=Profile%20views&color=0e75b6&style=flat" alt="akkii99" /> </p>
 
-- 🌱 I’m currently learning **spring , sql**
 
-- 💬 Ask me about **java , javascript , sql , html , css**
+
+- 💬 Ask me about **java , Spring, Spring Boot | Rest API, SQL, Hibernate javascript , , html , css**
 
 - 📫 How to reach me **amit69091@gmail.com**
 
