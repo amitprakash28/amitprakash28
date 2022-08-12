@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Prakash</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
-<img align="center" alt="Coding" width="100%" src ="https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif" style="margin: 20px 0">
+<img align="center" alt="Coding" width="60%" src ="https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif" style="margin: 20px 0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitprakash28&label=Profile%20views&color=0e75b6&style=flat" alt="amitprakash28" /> </p>
