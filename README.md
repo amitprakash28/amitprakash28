@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amit69091@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z_6K9Yzua-spiKXIfA_Rha4DM4u3MZzS/view?usp=sharing](https://drive.google.com/file/d/1z_6K9Yzua-spiKXIfA_Rha4DM4u3MZzS/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1z_6K9Yzua-spiKXIfA_Rha4DM4u3MZzS/view?usp=sharing](https://drive.google.com/file/d/1z_6K9Yzua-spiKXIfA_Rha4DM4u3MZzS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
