@@ -47,11 +47,11 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
 <img align = "left" src="https://www.dariawan.com/media/images/tech-spring-boot.width-1024.png" alt="drawing" width="100"/>
-<br/>  
+
 <img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"   alt="drawing" width="100"/>
-<br/>  
+ 
 <img src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg" alt="drawing" width="100"/>
-<br/>  
+
 <img align="left" src="https://zooz.github.io/predator/images/restapi.png" alt="drawing" width="100"/>
 
 </td></tr></table>  
