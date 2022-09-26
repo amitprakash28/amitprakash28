@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://images.unsplash.com/photo-1596443686812-2f45229eebc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" align="center" style="width: 100%" />
+<div align="left">
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="left">I'm Amit Prakash, a passionate Java Backend Developer 👨‍💻 </div>  
+## <div align="left">I'm Amit Prakash, a passionate Java Backend Developer 👨‍💻 </div>  
   
 
 - **💻 My Portfolio : [click](https://amitprakash.netlify.app/)**  
