@@ -43,7 +43,6 @@
 <br/>  
 <br/>  
 <br/>  
-<br/>  
 
 <img  align = "left"  src="https://camo.githubusercontent.com/561a2d8d32522652a0325c06668b15abc91d7921b9eb93b87f0c74bfffdb8e16/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f537072696e675f4672616d65776f726b2f537072696e675f4672616d65776f726b2d4c6f676f2e77696e652e706e67" alt="drawing" width="150"/> 
 
@@ -54,8 +53,6 @@
 
 <img  src="https://mti.com/wp-content/uploads/2021/04/Amazon-Web-Services-Logo-White.png" alt="drawing" width="80"/>
 
-
-<br/>  
 <br/>  
 <br/>  
 <br/>  
