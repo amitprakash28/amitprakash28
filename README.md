@@ -4,8 +4,13 @@
    
   
 
-## <div align="left">I'm Amit Prakash, a passionate Java Backend Developer 👨‍💻 </div>  
-  
+# <div align="center"> Hi 👋 , I'm Amit Prakash </div>  
+### <div align="center"> A passionate Java Backend Developer 👨‍💻 </div>  
+
+<br/>  
+
+<br/>  
+
 
 - **💻 My Portfolio : [click](https://amitprakash.netlify.app/)**  
   
@@ -24,38 +29,54 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-
-<img src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg" alt="drawing" width="100"/>
-
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-</div>
 <img align = "left" src="https://www.dariawan.com/media/images/tech-spring-boot.width-1024.png" alt="drawing" width="100"/>
 
 <img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"   alt="drawing" width="100"/>
 
 <img align="left" src="https://zooz.github.io/predator/images/restapi.png" alt="drawing" width="100"/>
 
-</td></tr></table>  
+<img  align = "left" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg" alt="drawing" width="100"/> 
+
+<img  align = "left" src="https://camo.githubusercontent.com/56fc4519f68c82dee44c2536242ab2525701eee60303fae465fee7f7db17ac65/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3831382f312a7a632d4c676f6747747237664648463965314d3877412e706e67" alt="drawing" width="100"/>
+
+<br/>  
+<br/>  
+
+<img  align = "left" src="https://camo.githubusercontent.com/561a2d8d32522652a0325c06668b15abc91d7921b9eb93b87f0c74bfffdb8e16/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f537072696e675f4672616d65776f726b2f537072696e675f4672616d65776f726b2d4c6f676f2e77696e652e706e67" alt="drawing" width="150"/> 
+
+<img  align = "left" src="https://camo.githubusercontent.com/f6f986e8481e344792ddd3d38c03fdbeb3873785677fe2de24ec1fb52ff13cda/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f4d7953514c2f4d7953514c2d4c6f676f2e77696e652e706e67" alt="drawing" width="100"/> 
+
+<img  align = "left" src="https://camo.githubusercontent.com/b05af998baff3fc8a3181e5e73d225c145436abe4692db047195bacc10ee4911/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30392f4a6176612d4c6f676f2e706e67" alt="drawing" width="100"/> 
+
+
+<img  align = "left" src="https://mti.com/wp-content/uploads/2021/04/Amazon-Web-Services-Logo-White.png" alt="drawing" width="80"/>
+
+
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+
+
+<img  align = "left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="drawing" width="50"/>
+
+<img  align = "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="drawing" width="50"/>
+
+<img  align = "left" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="drawing" width="100"/>
+
+<img  align = "left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="drawing" width="50"/>
+
+
+
+
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+
+
 
 <br/>  
 
