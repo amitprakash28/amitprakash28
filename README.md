@@ -1,6 +1,7 @@
 <div align="left">
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" align="center" style="width: 100%" />
 </div>  
+   
   
 
 ## <div align="left">I'm Amit Prakash, a passionate Java Backend Developer 👨‍💻 </div>  
@@ -80,7 +81,8 @@
 
 <br/>  
 
-  
+<br/>  
+<br/>  
 <br/>  
 <br/>  
 <br/>  
