@@ -15,8 +15,7 @@
 - **💻 My Portfolio : [click](https://amitprakash.netlify.app/)**  
   
 
-- **📩 How to reach me : 
-[amit69091@gmail.com](amit69091@gmail.com)**  
+- **📩 How to reach me :**  **amit69091@gmail.com**
   
 
 - **🌐 My Resume : [click](https://drive.google.com/file/d/1IgVsZegKDNc8LJWu9khINgomoLAL6rjz/view)**  
